@@ -106,8 +106,8 @@ if __name__ == '__main__':
     os.chdir (caminho_download)
     
     # Pagina Inicial
-    
-    driver.get("https://portal.doe.sea.sc.gov.br/v126/#/buscar-edicao")
+    #Verificar a versão da página, pois em cada atualização mudam a vXXX
+    driver.get("https://portal.doe.sea.sc.gov.br/v127/#/buscar-edicao")
     #+driver.get("https://portal.doe.sea.sc.gov.br/v125/#/buscar-edicao")
     
     
