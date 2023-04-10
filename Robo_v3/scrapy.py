@@ -107,7 +107,7 @@ if __name__ == '__main__':
     
     # Pagina Inicial
     #Verificar a versão da página, pois em cada atualização mudam a vXXX
-    driver.get("https://portal.doe.sea.sc.gov.br/v127/#/buscar-edicao")
+    driver.get("https://portal.doe.sea.sc.gov.br/v128/#/buscar-edicao")
     #+driver.get("https://portal.doe.sea.sc.gov.br/v125/#/buscar-edicao")
     
     
